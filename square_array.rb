@@ -3,3 +3,5 @@ def square_array(array)
     item * item
   end
 end
+
+square_array([2, 3, 4])
